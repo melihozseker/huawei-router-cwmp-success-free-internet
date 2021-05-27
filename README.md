@@ -7,5 +7,3 @@ the goal here is just to get the cwmp success message and get the acs ok message
 I think that this vulnerability will actually occur on all wireless modems, and I proved it.
 in order to achieve this process, you must constantly review the modem's log records.
 in the future, such videos will come.
-///////////////////////---------//////////////////////
------------------------/////////----------------------
